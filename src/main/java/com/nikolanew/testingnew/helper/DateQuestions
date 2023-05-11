@@ -1,0 +1,22 @@
+/*
+Sure, here are some of the most commonly asked time and date interview questions and tasks:
+
+How do you get the current date and time in Java?
+How do you format a date in Java?
+How do you compare two dates in Java?
+How do you convert a string to a date in Java?
+How do you add or subtract a day, month, or year to a date in Java?
+How do you find the number of days between two dates in Java?
+How do you handle time zones in Java?
+How do you get the day of the week from a date in Java?
+How do you handle leap years in Java?
+How do you convert a date to a timestamp in Java?
+In addition to these questions, here are some tasks related to time and date that you might encounter during an interview:
+Date range compare?
+
+Write a program to calculate the age of a person based on their birthdate.
+Write a program to find the next occurrence of a certain date (e.g., the next Monday).
+Write a program to validate a date entered by a user.
+Write a program to sort a list of dates in chronological order.
+Write a program to find the duration between two timestamps in seconds, minutes, and hours.
+ */
